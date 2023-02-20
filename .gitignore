@@ -1,0 +1,11 @@
+backend/__pycache__/
+product/__pycache__/
+user/__pycache__/
+fontend/__pycache__/
+.vscode/
+backend/.pyc
+backend/.env
+db.sqlite3
+frontend/static_cdn/
+frontend/media_cdn/
+__pycache__/
